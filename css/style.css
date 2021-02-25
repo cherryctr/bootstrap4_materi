@@ -1,0 +1,31 @@
+.homenav {
+	width: 100% !important;
+	position: absolute !important;
+	z-index: 10;
+	background-color: rgba(0 , 0, 0, 0.5) !important;
+	border-radius: 0px !important;
+}
+
+.homenav .navbar-toggler {
+	background-color: white !important;
+}
+
+.homenav .collapse li a:hover {
+	color: #3498db !important;
+}
+
+.content {
+	margin-top: 80px;
+}
+
+.content h3 i {
+	background: #3498db;
+	padding: 10px;
+	color: white;
+}
+
+.joinus {
+	background: #333333 !important;
+	height: 200px !important;
+	margin-top: 40px;
+}
